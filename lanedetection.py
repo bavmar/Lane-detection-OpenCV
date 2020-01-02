@@ -100,7 +100,7 @@ while True:
     
     #Open normal frames
     if (display == 1) or (display == 3):
-		#Give name to window
+	    #Give name to window
 	    cv2.namedWindow("frameOutput", cv2.WINDOW_NORMAL)
 	    
 	    #Resize
@@ -109,9 +109,9 @@ while True:
 	    #Show frame ouput with overlay
 	    cv2.imshow("frameOutput", frameR)
 	
-	#Open edges frames
+    #Open edges frames
     if (display == 2) or (display == 3):
-		#Give name to window
+	    #Give name to window
 	    cv2.namedWindow("edgesOutput", cv2.WINDOW_NORMAL)
 	    
 	    #Resize
@@ -120,7 +120,7 @@ while True:
 	    #Show canny output
 	    cv2.imshow("edgesOutput", edgesR)
 	
-	#Press 'q' to quit.
+    #Press 'q' to quit.
     if cv2.waitKey(1) & 0xFF == ord('q'):
 	    break
 
