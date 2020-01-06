@@ -27,7 +27,7 @@ max_line_gap = 20
 
 #Color and boldness for drawn lines
 line_color = (0, 0, 255)
-line_boldness = 10
+line_boldness = 9
 
 #Threshhold for yellow lanes
 low_yellow = np.array([18, 94, 140], dtype=np.uint8)
@@ -40,7 +40,6 @@ up_white = np.array([255,255,255], dtype=np.uint8)
 #Region of interest points
 vertices = np.array([[200,650],[450,500],[450,500],[600,425],[750,425],[1250,650],], np.int32)
 display_vertices = True
-
 
 #Videocapture
 #Change to 0 if you want to use your first attached webcam / change path where video is located
