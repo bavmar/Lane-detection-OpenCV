@@ -19,6 +19,9 @@ print ("Numpy version: " + np.version.version)
 #all windows   = 3 
 display = 3
 
+#Quit key
+quit_key = 'q';
+
 #Window sizes
 window_size = (1980,1040)
 
@@ -120,7 +123,7 @@ while True:
 	    cv2.imshow("edgesOutput", edgesR)
 	
     #Press 'q' to quit.
-    if cv2.waitKey(1) & 0xFF == ord('q'):
+    if cv2.waitKey(1) & 0xFF == ord(quit_key):
 	    break
 
 #Break all after quit		
