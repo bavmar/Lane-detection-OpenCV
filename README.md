@@ -1,5 +1,5 @@
 # Lane-detection-OpenCV
-This is the repository for the code associated with [this](https://www.youtube.com/watch?v=vIBYzkAr4so) video
+This is the repository for the code associated with [this](https://www.youtube.com/watch?v=vIBYzkAr4so) video.
 
 
 
