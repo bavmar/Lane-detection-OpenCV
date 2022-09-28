@@ -4,7 +4,7 @@ This is the repository for the code associated with [this](https://www.youtube.c
 
 
 ## Information
-The application detects lanes using a ROI, Multiple color thresholds and Edges detection. (i have good comments)
+The application detects lanes using a ROI, Multiple color thresholds and Edges detection.
 The reason i didn't put in the code for the sign detection is because It's not really optimized yet. Maybe i will post it in the future.
 
 ## Versions
