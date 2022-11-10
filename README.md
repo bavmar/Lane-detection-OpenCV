@@ -13,14 +13,3 @@ OpenCV: 3.4.3
 Numpy: 1.15.4
 
 Python 3.7
-
-
-### Story
-This was part of a school project of mine. And the lane/sign detection was my part. Our group got second best of the school and we will compete in the national Raspberry Pi challenge competetion in the Netherlands.
-
-I had 0 experience with this subject and have learned alot from it thanks to all the others that put their code up for my reference. 
-So here, i do the exact same. Hope you have some value out of it.
-
-
-### Test video download
-Click [Here](https://mega.nz/#!owBVHaDb!V9X_jIx1TMyU1YXVG68D79YmJ6pyqhPqJPBj5JqYhpg) (updated link)
